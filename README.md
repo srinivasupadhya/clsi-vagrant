@@ -7,7 +7,7 @@ Steps:
 
 clone repo
 ```
-$cd clsi-vagrant
+  $cd clsi-vagrant
 ```
 edit data/setup.sh - change localhost:3319 to ip:port of your choice
 ```

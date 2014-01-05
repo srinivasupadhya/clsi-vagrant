@@ -22,3 +22,6 @@ login as vagrant-vagrant
   $cd /vagrant_data
   $./setup.sh
 ```
+accept whenever prompted for
+
+use 'space bar' for selecting options when prompted & 'tab' to navigate in commandline
